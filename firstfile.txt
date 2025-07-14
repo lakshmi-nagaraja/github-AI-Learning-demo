@@ -1,2 +1,3 @@
 AIOps foundation training
 Learning session on foundation
+Validating the first commit
